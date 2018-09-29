@@ -6,7 +6,7 @@ First version: 2018/09/26
 
 ## Running environment
 
-- The codes run on latest MATLAB enviroment. 
+- The codes run on latest MATLAB environment. 
 - Since Octave does not supply **ldl** function for indefinite symmetric matrix, the rigorous evaluation is not available for Octave.
 
 ## Configuration
